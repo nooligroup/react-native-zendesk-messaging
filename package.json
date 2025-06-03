@@ -79,7 +79,7 @@
     "react": "18.2.0",
     "react-native": "0.70.6",
     "react-native-builder-bob": "^0.23.0",
-    "release-it": "^16.2.1",
+    "release-it": "^18.0.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   },
@@ -91,8 +91,8 @@
     "node": ">= 18.0.0"
   },
   "sdkVersions": {
-    "android": "2.13.0",
-    "ios": "2.13.0"
+    "android": "2.31.0",
+    "ios": "2.31.0"
   },
   "packageManager": "yarn@4.6.0",
   "commitlint": {
